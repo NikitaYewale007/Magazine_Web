@@ -1,0 +1,19 @@
+#root {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+}
+
+body {
+  font-family: 'Roboto Slab', serif;
+}
+
+
+.footer-sticky {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+/* Slick slider default styles */
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
